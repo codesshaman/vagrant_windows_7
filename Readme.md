@@ -1,4 +1,4 @@
-# Виртуальная машина Vagrant c python3.11
+# Виртуальная машина Vagrant c windows 7
 
 Необходимо установить:
 - [vagrant (windows)](https://cloud.mail.ru/public/Vvjh/TyWnCn8h9 "vagrant") 
